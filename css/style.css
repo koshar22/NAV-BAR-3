@@ -73,4 +73,9 @@ nav > .left > .links > li > a:hover {
 nav > .right > a > i{
     color: rgb(196, 196, 204);
     font-size: larger;
+    transition: ease-in-out 250ms;
+}
+
+nav > .right > a > i:hover {
+    color: #fff;
 }
